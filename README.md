@@ -22,3 +22,10 @@
 
 2) [Задание 2.2 ВСР](https://github.com/Kseniaveh/practic2020/blob/master/2.2.docx)  
 
+
+
+### Документы
+
+[Задания](https://github.com/Kseniaveh/practic2020/blob/master/Задания%20Вехова.docx)  
+
+[Отчет](https://github.com/Kseniaveh/practic2020/blob/master/Отчет%20Вехова.docx)  
